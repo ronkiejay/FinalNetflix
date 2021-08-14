@@ -1,0 +1,307 @@
+{
+    "shows": 
+    [
+      {
+        "id": 1,
+        "title": "Arrow",
+        "description": "Thrilling, Suspense and Emotional",
+        "rating": "PG_13",
+        "isRecent": "1",
+        "isFeatured": "1",
+        "price": "24.99",
+        "seasons": "4",
+        "episodes": "75",
+        "image":"/img/shows/arrow.jpg"
+      },
+      {
+        "id":2,
+        "title": "Background",
+        "description": "Adventurous, Drama, and Family",
+        "rating": "PG_14",
+        "isRecent": "2",
+        "isFeatured": "2",
+        "isHero": true,
+        "price": "22.99",
+        "seasons": "3",
+        "episodes": "62",
+        "image":"/img/shows/background.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Bones",
+        "description": "Frightening, Action and Suspense",
+        "rating": "PG_15",
+        "isRecent": "3",
+        "isHero": true,
+        "isFeatured": "3",
+        "price": "21.99",
+        "seasons": "1",
+        "episodes": "36",
+        "image":"/img/shows/bones.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Castle",
+        "description": "Power, Suspense and Action",
+        "rating": "PG_17",
+        "isRecent": "4",
+        "isFeatured": "4",
+        "price": "26.99",
+        "seasons": "3",
+        "episodes": "52",
+        "image":"/img/shows/castle.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Empire",
+        "description": "Power, Suspense and War",
+        "rating": "PG_18",
+        "isRecent": "5",
+        "isFeatured": "5",
+        "price": "24.99",
+        "isHero": true,
+        "seasons": "3",
+        "episodes": "30",
+        "image":"/img/shows/empire.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Friends",
+        "description": "Comedy, Family and Emotional",
+        "rating": "PG_13",
+        "price": "25.99",
+        "seasons": "6",
+        "episodes": "102",
+        "image":"/img/shows/friends.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Games of Thrones",
+        "description": "Power, Suspense and War",
+        "rating": "PG_18",
+        "isRecent": "6",
+        "isFeatured": "6",
+        "price": "28.99",
+        "isHero": true,
+        "seasons": "5",
+        "episodes": "60",
+        "image":"/img/shows/gameofthrones.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Empire",
+        "description": "Power, Suspense and War",
+        "rating": "PG_18",
+        "isRecent": "5",
+        "isFeatured": "5",
+        "price": "24.99",
+        "isHero": true,
+        "seasons": "3",
+        "episodes": "30",
+        "image":"/img/shows/goodgirls.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Gotham",
+        "description": "Adventure, Action and Suspense",
+        "rating": "PG_114",
+        "price": "24.99",
+        "isHero": true,
+        "seasons": "4",
+        "episodes": "35",
+        "image":"/img/shows/gotham.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Riverdale",
+        "description": "Betrayal, Denial and Suspense",
+        "rating": "PG_15",
+        "price": "20.99",
+        "seasons": "3",
+        "episodes": "32",
+        "image":"/img/shows/riverdale.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Riverdale",
+        "description": "Betrayal, Denial and Suspense",
+        "rating": "PG_15",
+        "price": "20.99",
+        "seasons": "3",
+        "episodes": "32",
+        "image":"/img/shows/scorpion.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Smash",
+        "description": "Family, Denial and Action",
+        "rating": "PG_15",
+        "price": "20.99",
+        "seasons": "3",
+        "episodes": "30",
+        "image":"/img/shows/smash.jpg"
+      }
+    ],
+  
+    "movies": 
+    [
+      {
+        "id": 1,
+        "image":"/img/movies/adam.jpg"
+      },
+      {
+        "id": 2,
+        "image":"/img/movies/dark_knight.jpg"
+      },
+      {
+        "id": 3,
+        "image":"/img/movies/download.jpg"
+      },
+      {
+        "id": 4,
+        "image":"/img/movies/dragan.jpg"
+      },
+      {
+        "id": 5,
+        "image":"/img/movies/exists.jpg"
+      },
+      {
+        "id": 6,
+        "image":"/img/movies/furious.jpg"
+      },
+      {
+        "id": 7,
+        "image":"/img/movies/legend.jpg"
+      },
+      {
+        "id": 8,
+        "image":"/img/movies/lego.jpg"
+      },
+      {
+        "id": 9,
+        "image":"/img/movies/radhe.png"
+      },
+      {
+        "id": 10,
+        "image":"/img/movies/skyline.jpg"
+      },
+      {
+        "id": 11,
+        "image":"/img/movies/sonic.jpg"
+      },
+      {
+        "id": 12,
+        "image":"/img/movies/swirls.jpg"
+      }
+    ],
+
+    "recentMovies":
+    [
+      {
+        "id": 1,
+        "image":"/img/recentMovies/swirls.jpg"
+      },
+      {
+        "id": 2,
+        "image":"/img/recentMovies/warcraft.jpg"
+      },
+      {
+        "id": 3,
+        "image":"/img/recentMovies/troy.jpg"
+      },
+      {
+        "id": 4,
+        "image":"/img/recentMovies/gameofthrones.jpg"
+      },
+      {
+        "id": 5,
+        "image":"/img/recentMovies/gotham.jpg"
+      },
+      {
+        "id": 6,
+        "image":"/img/recentMovies/exists.jpg"
+      },
+      {
+        "id": 7,
+        "image":"/img/recentMovies/scorpion.jpg"
+      },
+      {
+        "id": 8,
+        "image":"/img/recentMovies/lego.jpg"
+      }
+    ],
+  
+    "showsDetails": 
+    [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+  
+    "moviesDetails": 
+    [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+
+    "featuredMovies": 
+    [
+      {
+        "id": 1,
+        "image":"/img/featuredMovies/dragan.jpg"
+      },
+      {
+        "id": 2,
+        "image":"/img/featuredMovies/legend.jpg"
+      },
+      {
+        "id": 3,
+        "image":"/img/featuredMovies/dark_knight.jpg"
+      },
+      {
+        "id": 4,
+        "image":"/img/featuredMovies/radhe.png"
+      },
+      {
+        "id": 5,
+        "image":"/img/featuredMovies/sonic.jpg"
+      },
+      {
+        "id": 6,
+        "image":"/img/featuredMovies/furious.jpg"
+      }
+    ],
+
+    "featuredShows": 
+    [
+      {
+        "id": 1,
+        "image":"/img/featuredShows/bones.jpg"
+      },
+      {
+        "id": 2,
+        "image":"/img/featuredShows/empire.jpg"
+      },
+      {
+        "id": 3,
+        "image":"/img/featuredShows/riverdale.jpg"
+      },
+      {
+        "id": 4,
+        "image":"/img/featuredShows/the100.jpg"
+      },
+      {
+        "id": 5,
+        "image":"/img/featuredShows/goodgirls.jpg"
+      },
+      {
+        "id": 6,
+        "image":"/img/featuredShows/vikings.jpg"
+      }
+    ]
+  }
